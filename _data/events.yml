@@ -1,7 +1,7 @@
 # Track: TechEvent, FrontendTrack, ArchitectureTrack, FunEvent, CloudTrack, QAEvent | TechCafe
 # Content: Hands-On, Code-Show, Theoretical, Bootcamp
 # Level: Introduction, Intermediate, Expert
-
+# Type: Short, Virtual, exercisesAtTheEnd, On-Site
 
 # TODO: missing the skydiving event
 # TODO: VR Event
@@ -71,7 +71,7 @@
   content: "Code-Show"
   type: ["Virtual", "Short"]
   level: Introduction
-  duration: ""
+  duration: "2h"
   video: ""
   image: ""
   linkedIn: "https://www.linkedin.com/feed/update/urn:li:activity:7122540075166404608"
